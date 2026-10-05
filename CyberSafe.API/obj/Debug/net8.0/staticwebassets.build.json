@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dCQw6QveKg7G/qkm9uKBygumqkoB7h7fVicGp7vtz2E=",
+  "Source": "CyberSafe.API",
+  "BasePath": "_content/CyberSafe.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
